@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cfaf31987d4f0742b792b484a688994, type: 3}
+  m_Name: YellowGun
+  m_EditorClassIdentifier: 
+  firePoint: {x: 0, y: 0.134, z: 0.69}
+  spread: 0.05
+  prefab: {fileID: 191150, guid: 841f0ca7a430c324d92c5583a9df3793, type: 3}
+  icon: {fileID: 21300000, guid: 1ce27168baac3fe44aa5cccf92572ffa, type: 3}
+  damage: 2
+  fireRate: 0.15
